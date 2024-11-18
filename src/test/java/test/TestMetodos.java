@@ -1,6 +1,8 @@
 package test;
 
-
+import package main.Asiento;
+import package main.Auto;
+import package main.Motor;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.MethodOrderer;
