@@ -1,4 +1,4 @@
-package automovil;
+package main;
 
 /**
  *
