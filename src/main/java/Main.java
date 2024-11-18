@@ -27,6 +27,6 @@ public class Main {
 
         System.out.println("Cantidad de asientos: " + auto.cantidadAsientos());
 
-        System.out.println("Verificación de integridad: " + auto.verificarIntegridad());
+        System.out.println("Verificacion de integridad: " + auto.verificarIntegridad());
     }
 }
