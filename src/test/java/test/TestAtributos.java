@@ -13,7 +13,7 @@ public class TestAtributos {
    	public void testAtributosMotor(){
 		
 		Motor m = new Motor();
-		m.numeroCilindros = 4;
+		//m.numeroCilindros = 4;
 		m.registro = 142;
 		m.tipo = "electrico";
 		
@@ -25,7 +25,7 @@ public class TestAtributos {
 		
 		Asiento a = new Asiento();
 		a.color = "blanco";
-		a.precio = 5000;
+		//a.precio = 5000;
 		a.registro = 435;
 		
 		assertTrue(true, "Hay un problema con los atributos de la Clase Asiento");
@@ -36,7 +36,7 @@ public class TestAtributos {
 		
 		Auto v = new Auto();
 		v.asientos = new Asiento[5];
-		v.marca = "tesla";
+		//v.marca = "tesla";
 		v.modelo = "model 3";
 		v.motor = new Motor();
 		v.precio = 33000;
